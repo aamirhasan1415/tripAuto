@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[title validated success fully <br>]]>
+    </line>
+    <line>
+      <![CDATA[Banner validated success fully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-04-21T14:42:41 IST" name="Suite" finished-at="2026-04-21T14:43:23 IST" duration-ms="42168">
+    <groups>
+    </groups>
+    <test started-at="2026-04-21T14:42:41 IST" name="Test" finished-at="2026-04-21T14:43:23 IST" duration-ms="42168">
+      <class name="testcases.TripPackageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TripPackageTest@4d5d943d]" started-at="2026-04-21T14:42:41 IST" name="setUp" finished-at="2026-04-21T14:42:54 IST" duration-ms="13420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tripPackageTest()[pri:0, instance:testcases.TripPackageTest@4d5d943d]" started-at="2026-04-21T14:42:54 IST" name="tripPackageTest" finished-at="2026-04-21T14:43:17 IST" duration-ms="22785" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[title validated success fully <br>]]>
+            </line>
+            <line>
+              <![CDATA[Banner validated success fully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tripPackageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TripPackageTest@4d5d943d]" started-at="2026-04-21T14:43:17 IST" name="tearDown" finished-at="2026-04-21T14:43:23 IST" duration-ms="5932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TripPackageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
