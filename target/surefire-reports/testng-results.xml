@@ -8,16 +8,16 @@
       <![CDATA[Banner validated success fully]]>
     </line>
   </reporter-output>
-  <suite started-at="2026-04-21T16:20:29 IST" name="Suite" finished-at="2026-04-21T16:20:56 IST" duration-ms="27103">
+  <suite started-at="2026-04-22T09:38:51 IST" name="Suite" finished-at="2026-04-22T09:39:35 IST" duration-ms="43224">
     <groups>
     </groups>
-    <test started-at="2026-04-21T16:20:29 IST" name="Test" finished-at="2026-04-21T16:20:56 IST" duration-ms="27103">
+    <test started-at="2026-04-22T09:38:51 IST" name="Test" finished-at="2026-04-22T09:39:35 IST" duration-ms="43224">
       <class name="testcases.TripPackageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TripPackageTest@7a69b07]" started-at="2026-04-21T16:20:29 IST" name="setUp" finished-at="2026-04-21T16:20:34 IST" duration-ms="4457" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TripPackageTest@7a69b07]" started-at="2026-04-22T09:38:52 IST" name="setUp" finished-at="2026-04-22T09:39:01 IST" duration-ms="9326" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="tripPackageTest()[pri:0, instance:testcases.TripPackageTest@7a69b07]" started-at="2026-04-21T16:20:34 IST" name="tripPackageTest" finished-at="2026-04-21T16:20:55 IST" duration-ms="21318" status="PASS">
+        <test-method signature="tripPackageTest()[pri:0, instance:testcases.TripPackageTest@7a69b07]" started-at="2026-04-22T09:39:01 IST" name="tripPackageTest" finished-at="2026-04-22T09:39:33 IST" duration-ms="31946" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[title validated success fully <br>]]>
@@ -27,7 +27,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tripPackageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TripPackageTest@7a69b07]" started-at="2026-04-21T16:20:55 IST" name="tearDown" finished-at="2026-04-21T16:20:56 IST" duration-ms="1296" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TripPackageTest@7a69b07]" started-at="2026-04-22T09:39:33 IST" name="tearDown" finished-at="2026-04-22T09:39:35 IST" duration-ms="1881" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
